@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liwangping.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-09-14T06:33:59.233Z</updated>
+    <title>大白的博客</title>
+    <updated>2021-09-14T06:37:48.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liwangping.github.io"/>
     <link rel="self" href="https://liwangping.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>stay hungry， stay foolish。</subtitle>
     <logo>https://liwangping.github.io/images/avatar.png</logo>
     <icon>https://liwangping.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 大白的博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://liwangping.github.io/post/hello-gridea/</id>
